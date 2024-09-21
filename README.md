@@ -1,5 +1,5 @@
 # SafePass – A simple password manager!
-YouTube link: https://www.youtube.com/watch?v=6gIjukx4Ch8
+YouTube link: https://youtu.be/eHqPzfc8H8Y?si=qzIxKdyWDV_P4qRj
 > [!IMPORTANT]
 > Please, do not store your real passwords into this program!
 
